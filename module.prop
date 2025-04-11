@@ -1,0 +1,6 @@
+id=dexopt-boost
+name=Dex2OAT Optimization Boost
+version=0.1Beta
+versionCode=1
+author=Lufer142006(LUFEROS)
+description=Forza la recompilación AOT de ART (dex2oat) con filtro 'speed-profile' para apps de usuario tras el primer arranque. Optimización experimental. Usar con precaución.
