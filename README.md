@@ -23,3 +23,5 @@ Si tu dispositivo ya es inestable: No añadas modificaciones que podrían empeor
 Si tienes muy poco espacio de almacenamiento: Aunque "speed-profile" es moderado, si modificaras el script para usar filtros más agresivos como "speed" o "everything", el espacio ocupado por las aplicaciones compiladas podría aumentar notablemente.
 Si prefieres dejar que Android gestione la optimización: El sistema operativo ya tiene sus propios métodos para optimizar apps (a menudo llamados dexopt en segundo plano) que suelen estar bien ajustados. Forzar un método podría no ser beneficioso.
 En ROMs personalizadas muy modificadas: Algunas ROMs ya incluyen sus propias optimizaciones o cambios en cómo funciona la compilación. Este módulo podría entrar en conflicto con ellas.
+
+SIENTETE LIBRE DE COLABORAR EN ESTE MODULO
